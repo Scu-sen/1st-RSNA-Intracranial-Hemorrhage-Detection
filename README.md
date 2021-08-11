@@ -85,8 +85,9 @@ The final submissions are in the folder ../FinalSubmission/version2/submission_t
 ## Final Submission
 ### Private Leaderboard:
 - 0.04383
-##Reference
+## Reference
 If you find our work useful in your research or if you use parts of this code please consider citing our paper:
+A Deep Learning Algorithm for Automatic Detection and Classification of Acute Intracranial Hemorrhages in Head CT Scans
 ### TODO
 - [ ] Pre-trained models
 - [ ] 2DCNN + SeqModel end-to-end training 
