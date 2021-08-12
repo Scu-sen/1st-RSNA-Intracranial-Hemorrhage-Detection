@@ -86,7 +86,7 @@ The final submissions are in the folder ../FinalSubmission/version2/submission_t
 ### Private Leaderboard:
 - 0.04383
 ## Reference
-If you find our work useful in your research or if you use parts of this code please consider citing our paper:
+If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://doi.org/10.1016/j.nicl.2021.102785):
 
 ```@article{WANG2021102785,
 title = {A Deep Learning Algorithm for Automatic Detection and Classification of Acute Intracranial Hemorrhages in Head CT Scans},
