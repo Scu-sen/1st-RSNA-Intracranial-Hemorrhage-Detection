@@ -88,11 +88,11 @@ The final submissions are in the folder ../FinalSubmission/version2/submission_t
 ## Reference
 If you find our work useful in your research or if you use parts of this code please consider citing our paper:
 
-``@article{WANG2021102785,
-  title = {A Deep Learning Algorithm for Automatic Detection and Classification of Acute Intracranial Hemorrhages in Head CT Scans},
-  journal = {NeuroImage: Clinical},
-  pages = {102785},
-  year = {2021}
+``@article{WANG2021102785,  
+  title = {A Deep Learning Algorithm for Automatic Detection and Classification of Acute Intracranial Hemorrhages in Head CT Scans},  
+  journal = {NeuroImage: Clinical},  
+  pages = {102785},  
+  year = {2021}  
 ``
 
 
