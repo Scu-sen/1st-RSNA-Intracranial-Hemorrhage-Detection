@@ -94,6 +94,12 @@ journal = {NeuroImage: Clinical},
 pages = {102785},
 year = {2021},
 issn = {2213-1582}
+@inproceedings{lu2020clam,
+  title     = {Data-efficient and weakly supervised computational pathology on whole-slide images},
+  author    = {Ming Y. Lu, Drew F. K. Williamson, Tiffany Y. Chen, Richard J. Chen, Matteo Barbieri, Faisal Mahmood},
+  booktitle = {Nature Biomedical Engineering},
+  year = {2021}
+}
 
 ### TODO
 - [ ] Pre-trained models
