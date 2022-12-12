@@ -1,7 +1,7 @@
 # RSNA Intracranial Hemorrhage Detection
 This is the source code for the first place solution to the [RSNA2019 Intracranial Hemorrhage Detection Challenge](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection).
 
-[Journal Link](https://doi.org/10.1016/j.nicl.2021.102785)| [Cite](#reference) 
+[Journal Link](https://doi.org/10.1016/j.nicl.2021.102785) | [Cite](#reference) 
 
 Solution write up: [Link](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117210#latest-682640).
 
